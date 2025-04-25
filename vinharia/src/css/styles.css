@@ -183,7 +183,6 @@ footer {
   color: var(black);
 }
 
-/*Produtos*/
 .produtos {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -211,7 +210,6 @@ footer {
   margin-bottom: 20px;
 }
 
-/*Galeria*/
 .galeria {
   display: flex;
   gap: 20px;
@@ -231,7 +229,6 @@ footer {
 }
 
 
-/*Historia*/
 .conteudo-historia {
   width: full;
   font-family: Georgia, serif;
@@ -266,7 +263,6 @@ footer {
   border-radius: 10px;
 }
 
-/*Contato*/
 .contato {
   position: absolute;
   top: 40%;
@@ -276,3 +272,31 @@ footer {
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.4);
 }
+.curiosidades {
+  background-color: #f9f4ef;
+  border-radius: 16px;
+  padding: 20px;
+  margin-top: 40px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.curiosidades h2 {
+  color: #702d2d;
+  font-size: 1.8em;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.curiosidades ul {
+  list-style: none;
+  padding: 0;
+}
+
+.curiosidades li {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  line-height: 1.5;
+  padding-left: 24px;
+  position: relative;
+}
+
