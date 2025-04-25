@@ -1,5 +1,5 @@
 ## Lucas Costa Zago
 ## Arthur Canaverde
-## Igor Dominski
+## Igor Dominiski
 ## Murilo Akira
 ## Murilo Reis
