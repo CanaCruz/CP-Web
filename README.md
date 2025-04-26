@@ -9,19 +9,19 @@
    O website é composto por 5 páginas principais:
 
 1. **Início (index.html)**
-   É demonstrado uma breve introdução da empresa, além de um video de apresentação da vinícola (link externo, encontrado no youtube) e uma tabela com os tipos de vinho e as harmonizações que podem ser usufruidas junto com os vinhos de cada tipo. 
+  - É demonstrado uma breve introdução da empresa, além de um video de apresentação da vinícola (link externo, encontrado no youtube) e uma tabela com os tipos de vinho e as harmonizações que podem ser usufruidas junto com os vinhos de cada tipo. 
 
 2. **Produtos (produtos.html)**
-   Apresenta os produtos que são vendidos pela vinheria, sendo eles: a seleção especial proposta pelo estabelecimento que contem vinhos tintos, brancos, rosés e espumantes; Kits especiais com vinhos, taças e queijos; Acessorios como saca-rolhas, decanters, aeradores e bolsas térmicas, além de produtos gourmet como queijos finos, embutidos, azeites especiais e geleias.
+  - Apresenta os produtos que são vendidos pela vinheria, sendo eles: a seleção especial proposta pelo estabelecimento que contem vinhos tintos, brancos, rosés e espumantes; Kits especiais com vinhos, taças e queijos; Acessorios como saca-rolhas, decanters, aeradores e bolsas térmicas, além de produtos gourmet como queijos finos, embutidos, azeites especiais e geleias.
 
 3. **História (historia.html)**
-   Proporcionado aos clientes toda a história por trás da Vinheria Agnello, desde sua fundação até os dias atuais.
+  - Proporcionado aos clientes toda a história por trás da Vinheria Agnello, desde sua fundação até os dias atuais.
 
 4. **Contato (contato.html)**
-   Disponibilizado um formulário para que os clientes possam entrar em contato com a vinheria e atribuir sugestões, criticas e elogios. 
+  - Disponibilizado um formulário para que os clientes possam entrar em contato com a vinheria e atribuir sugestões, criticas e elogios. 
 
 5. **Galeria (galeria.html)**
-  Uma galeria de fotos da loja, dos produtos e da vinícola, para que os clientes possam conhecer melhor a vinheria.
+  - Uma galeria de fotos da loja, dos produtos e da vinícola, para que os clientes possam conhecer melhor a vinheria.
 
 # Nomes
    ## Arthur Cruz
