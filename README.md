@@ -7,27 +7,32 @@ O proprietário, sr.Giulio, não era adequo à ideia de vendas online, por consi
 A Vinheria Agnello já conta com um Software Integrado para gestão financeira e de estoques, porém, é necesário uma solução digital que traduza sua abordagem consultiva para o ambiente online, não perdendo a essencia da empresa. Como a definição do projeto ainda tem incertezas, diante a necessidade de oferecer toda a experiência vivida pelos clientes em sua loja presencial, traduzida para o e-commerce, optou-se por aplicar um método ágil de design, tendo Bianca como Product Owner e um desenvolvedor sênior como Scrum Master para liderar o projeto.
 
 ## Estrutura do Site
+
 O website é composto por 5 páginas principais:
 
 1. **Início (index.html)**
-   É demonstrado uma breve introdução da empresa, além de um video de apresentação da vinícola (link externo, encontrado no youtube) e uma tabela com os tipos de vinho e as harmonizações que podem ser usufruidas junto com os vinhos de cada tipo. 
+-É demonstrado uma breve introdução da empresa, além de um video de apresentação da vinícola (link externo, encontrado no youtube) e uma tabela com os tipos de vinho e as harmonizações que podem ser usufruidas junto com os vinhos de cada tipo. 
 
 2. **Produtos (produtos.html)**
-   Apresenta os produtos que são vendidos pela vinheria, sendo eles: a seleção especial proposta pelo estabelecimento que contem vinhos tintos, brancos, rosés e espumantes; Kits especiais com vinhos, taças e queijos; Acessorios como saca-rolhas, decanters, aeradores e bolsas térmicas, além de produtos gourmet como queijos finos, embutidos, azeites especiais e geleias.
+-Apresenta os produtos que são vendidos pela vinheria, sendo eles: a seleção especial proposta pelo estabelecimento que contem vinhos tintos, brancos, rosés e espumantes; Kits especiais com vinhos, taças e queijos; Acessorios como saca-rolhas, decanters, aeradores e bolsas térmicas, além de produtos gourmet como queijos finos, embutidos, azeites especiais e geleias.
 
 3. **História (historia.html)**
-    História da Vinharia Agnello, Trajetória e valores
+-História da Vinharia Agnello, Trajetória e valores
 
 4. **Contato (contato.html)**
-  É proporcionado para os clientes toda a história por trás da Vinheria Agnello, desde sua fundação até os dias atuais.
+-É proporcionado para os clientes toda a história por trás da Vinheria Agnello, desde sua fundação até os dias atuais.
 Disponibilizado um formulário para que os clientes possam entrar em contato com a vinheria e atribuir sugestões, criticas e elogios. 
 
 
 5. **Galeria (galeria.html)**
-   Uma galeria de fotos da loja, dos produtos e da vinícola, para que os clientes possam conhecer melhor a vinheria.
+-Uma galeria de fotos da loja, dos produtos e da vinícola, para que os clientes possam conhecer melhor a vinheria.
 
 ## Lucas Costa Zago
 ## Arthur Canaverde
 ## Igor Dominiski
 ## Murillo Akira
 ## Murilo Reis
+
+
+
+
