@@ -1,8 +1,4 @@
-## Lucas Costa Zago
-## Arthur Canaverde
-## Igor Dominiski
-## Murillo Akira
-## Murilo Reis
+
 # Vinharia Agnello - Website
 
 ## Sobre o Projeto
@@ -36,20 +32,8 @@ O website é composto por 5 páginas principais:
    - Imagens dos produtos
    - Ambiente e instalações
 
-## Recursos e Funcionalidades
-- Design responsivo
-- Navegação intuitiva
-- Seções informativas sobre vinhos
-- Tabela de harmonização
-- Formulário de contato
-- Galeria de imagens
-- Vídeo de apresentação
-
-## Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
-- Design responsivo
-
-## Contato
-Para mais informações, entre em contato através da página de contato do site.
+## Lucas Costa Zago
+## Arthur Canaverde
+## Igor Dominiski
+## Murillo Akira
+## Murilo Reis
