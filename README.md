@@ -1,4 +1,4 @@
-# Vinharia Agnello - Website
+# Vinheria Agnello - Website
 
 # Sobre o Projeto
    A situação abordada da Vinheria Agnello descreve a transição de uma loja física de vinhos, com mais de 15 anos de atuação em São Paulo, para o comércio eletrônico. A vinheria, conhecida pelo atendimento especializado e consultivo de seus vendedores, sofreu um impacto significativo na pandemia devido à redução do movimento presencial.
